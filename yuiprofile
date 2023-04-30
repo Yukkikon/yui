@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>yui</title>
+        <link rel="stylesheet" href="styleyui.css">
+    </head>
+    <body>
+        <header>
+            <a href="file:///C:/Users/yuki_/Desktop/%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8.html"><h1>Yui</h1></a>
+            <nav>
+                <ul>
+                    <a href="#about"><li>About</li></a>
+                    <a href="#blog"><li>Blog</li></a>
+                    <a href="#account"><li>Account</li></a>
+                </ul>
+            </nav>
+        </header>
+        <div class="mainvisual">
+            <img src="C:\Users\yuki_\Downloads\gahag-0081078485-1.jpg" alt="free">
+        </div>
+        <main>
+            <section class="about">
+                <a id="about"><h2><span>About</span></h2></a>
+                <div class="content">
+                    <img src="C:\Users\yuki_\Downloads\IMG_6931.jpg" alt="myphoto">
+                    <div class="text">
+                        <h3>Yui</h3>
+                        高校3年生の18歳から独学でHTMLとCSSを勉強し始める。将来の夢はフリーランス。Twitterを使って情報収集中！
+                    </div>
+                </div>
+            </section>
+            <section class="blog">
+                <a id="blog"><h2><span>Blog</span></h2></a>
+                勉強したことを使って、ページを作っています。
+                <ul>
+                    <li>
+                        <h3>2023/04/25</h3>
+                        <a href="C:\Users\yuki_\Documents\20230425.html">Yuiのこと。</a>
+                    </li>
+                </ul>
+            </section>
+            <section class="account">
+                <a id="account"><h2><span>Account</span></h2></a>
+                <div class="link">
+                    <ul>
+                        <li>
+                            <img src="C:\Users\yuki_\Downloads\000b.jpg" alt="twitter">
+                            <div class="linktext">
+                                <a href="https://twitter.com/yui_fre"><h3>Twitter</h3></a>
+                                勉強の様子をつぶやいたり情報収集したりしています！
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+        </main>
+        <footer>
+            ⒸYui
+        </footer>
+    </body>
+</html>
